@@ -1,0 +1,16 @@
+---
+title: "partner"
+author: "Adam Ford"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Name: Adam Ford
+- GitHub User: TheAdamBomb98
+- The owner's most recent commit was to add hw1.Rmd and hw1.html. It's Commit ID was 0x43beff2.
+- Knitting the owner's hw1 worked perfectly.
+- Keeping close track locally of which directories are repos and which are not, is quite helpful.
